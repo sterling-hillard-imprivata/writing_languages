@@ -60,3 +60,13 @@
       border: 1px solid #ccc;
     }
   }
+
+  /*-------section tags--------*/
+  section.division-stories dt{
+    margin-top: 20px;
+  }
+  section.nathaniel-vamp iframe {
+    width:75%; 
+   height:250px;
+
+  }
